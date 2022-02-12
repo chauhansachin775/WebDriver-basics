@@ -1,0 +1,9 @@
+workspace/
+bin/
+desktop.ini
+.class
+.metadata/
+.project
+.classpath
+.tmp.driveupload
+.settings
